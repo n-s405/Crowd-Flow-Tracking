@@ -8,7 +8,6 @@ _________
 
 ## Idea Pane 
 - [ ] Implement Depth perception using a camera ? <br/> 
-see 
 __1__ [description](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_depthmap/py_depthmap.html#py-depthmap)<br/> 
 __2__ [description](https://www.youtube.com/watch?v=KNft4RFsK28) the link for which can be found [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) and [here](https://github.com/mrharicot/monodepth)<br/>
  __3__ [blog](https://albertarmea.com/post/opencv-stereo-camera/)  presents a good example of depth from a stereo camera . 
