@@ -1,6 +1,6 @@
 # CV Activiy Logger
 
 
-### by Samarth Negi , Rishabh Singh , Rahul Rawat 
+### by [Samarth Negi](n-s405.github.io) , [Rishabh Singh]() , [Rahul Rawat]()
 
 
