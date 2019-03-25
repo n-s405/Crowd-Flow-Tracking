@@ -20,5 +20,18 @@ _________
         - [HOG + Linear SVM Implementation](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
 - [ ] __Age , Gender Detector__ 
     - Find things about people in frame . Kinda far fetched due to low accuracy 
+    - [This](https://www.vocal.com/video/face-detection-using-viola-jones-algorithm/) explains Viola Jones , alternatively [this](https://www.youtube.com/watch?v=uEJ71VlUmMQ) video 
 - [ ] __Make an interactive dashboard for the stuff__ 
+    - Try something that runs offline like PyGame or PyPlot . 
 - [ ] __Add correlation filters ([Kalman?](https://en.wikipedia.org/wiki/Kalman_filter)) to reduce re-entry errors__  
+    - Purely to improve accuracy . Attempt in the end . 
+
+
+
+## Progress
+    START ADDING THE THINGS DONE HERE
+
+## Requirements 
+    Python version number 
+    Dependencies etc . 
+    Upload an anaconda xml as well . In the data folder . 
