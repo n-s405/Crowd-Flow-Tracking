@@ -1,4 +1,4 @@
-# CV Activiy Logger
+# CV Activity Logger
 
 
 ### by [Samarth Negi](https://n-s405.github.io) , [Rishabh Singh]() , [Rahul Rawat]()
@@ -8,9 +8,9 @@ _________
 
 ## Idea Pane 
 - [ ] __Implement Depth perception using a camera__ <br/> 
-    - [Description](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_depthmap/py_depthmap.html#py-depthmap)<br/> 
-    - [Description](https://www.youtube.com/watch?v=KNft4RFsK28) the link for which can be found [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) and [here](https://github.com/mrharicot/monodepth)<br/>
-    - [Blog](https://albertarmea.com/post/opencv-stereo-camera/)  presents a good example of depth from a stereo camera . <br/>
+    - [Method 1](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_depthmap/py_depthmap.html#py-depthmap)<br/> 
+    - [Method 2](https://www.youtube.com/watch?v=KNft4RFsK28), the link for which can be found [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) and [here](https://github.com/mrharicot/monodepth)<br/>
+    - This [Blog](https://albertarmea.com/post/opencv-stereo-camera/)  presents a good example of depth from a stereo camera . <br/>
     - _Figure out if it can be somehow used . Avoid ML in this stage_
 - [ ] __Vanilla People Tracking : Just track people in a frame__ 
     - Use ML . Just find people in a frame 
