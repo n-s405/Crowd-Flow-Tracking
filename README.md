@@ -21,6 +21,11 @@ _________
 - [ ] __Age , Gender Detector__ 
     - Find things about people in frame . Kinda far fetched due to low accuracy 
     - [This](https://www.vocal.com/video/face-detection-using-viola-jones-algorithm/) explains Viola Jones , alternatively [this](https://www.youtube.com/watch?v=uEJ71VlUmMQ) video 
+- [ ] __Gaze Detection__
+    - [This](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets) is a pretty good starting point to detect people's gaze based on their head position (oxford university) . _also includes the dataset_
+- [ ] __A vv Good Implementation of People tracking__
+    - [This](https://cvlab.epfl.ch/research/research-surv/research-body-surv-index-php/) uses multiple cameras and a better algorithm . 
+    - Read up on how they incorporated DL in their CV pipeline . 
 - [ ] __Make an interactive dashboard for the stuff__ 
     - Try something that runs offline like PyGame or PyPlot . 
 - [ ] __Add correlation filters ([Kalman?](https://en.wikipedia.org/wiki/Kalman_filter)) to reduce re-entry errors__  
