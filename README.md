@@ -14,6 +14,9 @@ _________
     - [Method 2](https://www.youtube.com/watch?v=KNft4RFsK28), the links for which can be found [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) and [here](https://github.com/mrharicot/monodepth)<br/>
     - This [Blog](https://albertarmea.com/post/opencv-stereo-camera/)  presents a good example of depth from a stereo camera . <br/>
     - _Figure out if it can be somehow used in the final thing . Avoid ML in this stage_
+- [ ] __Tagged Depth Perception__
+    - See [this](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
+    - Nice discussion on stackexchange [here](https://photo.stackexchange.com/questions/12434/how-do-i-calculate-the-distance-of-an-object-in-a-photo)
 - [ ] __Vanilla People Tracking : Just track people in a frame__ 
     - Use ML . Just find people in a frame 
         - [Haar Cascade Implementation](https://medium.com/@madhawavidanapathirana/https-medium-com-madhawavidanapathirana-real-time-human-detection-in-computer-vision-part-1-2acb851f4e55)
