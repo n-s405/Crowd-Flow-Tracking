@@ -39,6 +39,21 @@ _________
 ## Progress
     START ADDING THE THINGS DONE HERE
 
+## Documentation Headers 
+- Introduction 
+    - Image processing 
+        - Python 
+        - OpenCV 
+        - [Pillow](https://pillow.readthedocs.io/en/stable/)
+    - Machine Learning 
+        - [TensorFlow](https://www.tensorflow.org/)
+        - [Keras](https://keras.io/)
+- Main Objective 
+- Detecting Humans 
+- Clasification of humans 
+- Depth perception 
+
+
 ## Requirements 
     Python version number 
     Dependencies etc . 
