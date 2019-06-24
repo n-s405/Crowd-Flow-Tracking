@@ -59,7 +59,8 @@ rates for the lease can be set.
 
 
 ## Progress
-    START ADDING THE THINGS DONE HERE
+1. Depth Sensing is done -> using 2 different cameras (Kind of like portrait mode)
+2. Flow tracking is done as show [here](data/'flow main.png') and [here]()
 
 ## Documentation Headers 
 - Introduction 
