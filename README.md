@@ -9,10 +9,29 @@ _________
 
 
 ## Description 
-    Project done as the Major Project for College . Combines Image Processing and Machine Learning to create a data analytics tool . 
+Project done as the Major Project for College . Combines Image Processing and Machine Learning to create a data analytics tool for market analysis . 
+
+__Crowd flow__ analysis is the process of analysing the movement of people in  a specific area.
+This data can be extracted using the surveillance camera footage by the help of Digital image
+processing and Machine learning. 
+The data extracted can be used for two purposes i.e.
+1. Study consumer behaviour  
+2. Providing better security
+
+Consumer Behaviour is one of the most important aspect in the industry of retail outlets and
+shopping complexes. In the case of retail outlets, the flow of analysis of the targeted audience
+is extremely important for the strategic placement of the outlets and the placement of
+promotional banners. Whereas in the cases of shopping complexes, the knowledge of consumer
+behaviour can be used for the purpose of better crowd management and more importantly, it
+can be used for the strategic placement for the various outlets based on the demographic of the
+crowd in various areas of the complex. This increases the productivity of every shop and the
+thus increases the profits of the overall shopping complex as the more the sale is the higher
+rates for the lease can be set.
+
+
 
 ## Idea Pane / Development To Do List 
-- [ ] __Implement Depth perception using a camera__ <br/> 
+- [x] __Implement Depth perception using a camera__ <br/> 
     - [Method 1](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_depthmap/py_depthmap.html#py-depthmap)<br/> 
     - [Method 2](https://www.youtube.com/watch?v=KNft4RFsK28), the links for which can be found [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) and [here](https://github.com/mrharicot/monodepth)<br/>
     - This [Blog](https://albertarmea.com/post/opencv-stereo-camera/)  presents a good example of depth from a stereo camera . <br/>
@@ -20,7 +39,7 @@ _________
 - [ ] __Tagged Depth Perception__
     - See [this](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
     - Nice discussion on stackexchange [here](https://photo.stackexchange.com/questions/12434/how-do-i-calculate-the-distance-of-an-object-in-a-photo)
-- [ ] __Vanilla People Tracking : Just track people in a frame__ 
+- [x] __Vanilla People Tracking : Just track people in a frame__  -> USED MobileNet + SSD 
     - Use ML . Just find people in a frame 
         - [Haar Cascade Implementation](https://medium.com/@madhawavidanapathirana/https-medium-com-madhawavidanapathirana-real-time-human-detection-in-computer-vision-part-1-2acb851f4e55)
         - [HOG + Linear SVM Implementation](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
