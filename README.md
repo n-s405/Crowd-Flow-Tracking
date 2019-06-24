@@ -61,8 +61,10 @@ rates for the lease can be set.
 ## Progress
 1. Depth Sensing is done -> using 2 different cameras (Kind of like portrait mode)
 2. See flow tracking done here : ![flow tracking](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/flowmain.png) . Done using MobileNet and OpenCV state calculations . With a filter based on MOG image subtraction . 
-3. See People Tracking here : ![flow tracking](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/track.png)
+3. See People Tracking here : ![flow tracking](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/track.png). 
 Done using CSRT filters 
+4. See location based activity tracking here : ![LActTracker](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/location.png). 
+Done using haar cascades and ROI fixing .
 
 
 ## Documentation Headers 
