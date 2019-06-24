@@ -5,8 +5,11 @@
 
 _________
 
+
+
+
 ## Description 
-    PUT SOMETHING HERE 
+    Project done as the Major Project for College . Combines Image Processing and Machine Learning to create a data analytics tool . 
 
 ## Idea Pane / Development To Do List 
 - [ ] __Implement Depth perception using a camera__ <br/> 
