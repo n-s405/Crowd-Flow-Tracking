@@ -60,7 +60,8 @@ rates for the lease can be set.
 
 ## Progress
 1. Depth Sensing is done -> using 2 different cameras (Kind of like portrait mode)
-2. Flow tracking is done as show [here](data/'flow main.png') and [here]()
+2. ![alt text](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/flow\ main.png)
+
 
 ## Documentation Headers 
 - Introduction 
