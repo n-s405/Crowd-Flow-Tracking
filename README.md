@@ -69,6 +69,11 @@ Done using CSRT filters
     ![LActTracker](https://github.com/n-s405/Crowd-Flow-Tracking/tree/master/data/location.png). 
 Done using haar cascades and ROI fixing .
 
+## Outputs as Listed Above 
+<img width="378" alt="3" src="https://user-images.githubusercontent.com/32849156/60575016-6533e380-9d98-11e9-905f-2ea9f55d54c8.png">
+<img width="673" alt="2" src="https://user-images.githubusercontent.com/32849156/60575017-6533e380-9d98-11e9-8ad7-163021f396ec.png">
+<img width="308" alt="location" src="https://user-images.githubusercontent.com/32849156/60575018-6533e380-9d98-11e9-8ceb-4348b3523db1.png">
+
 
 ## Documentation Headers 
 - Introduction 
